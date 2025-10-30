@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy | KAN VONNET</title>
+  <style>
+    body {font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; background: #fafafa;}
+    h1 {color:#1c7c54;}
+    footer {margin-top:40px; font-size:0.9em; color:#666;}
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> October 2025</p>
+  <p>Welcome to <strong>KAN VONNET</strong> — a digital space to connect, grow, and prosper. Your privacy is important to us.</p>
+  <h2>Information Collection</h2>
+  <p>We do not collect, store, or share any personal data.</p>
+  <h2>Permissions</h2>
+  <p>No unnecessary permissions are requested. Any future updates will clearly state new permissions.</p>
+  <h2>Third-Party Services</h2>
+  <p>No analytics or advertising services that collect user data are used.</p>
+  <h2>Contact</h2>
+  <p>Email us at <strong>kanvonnet@gmail.com</strong></p>
+  <footer>© 2025 KAN VONNET. All rights reserved.</footer>
+</body>
+</html>
